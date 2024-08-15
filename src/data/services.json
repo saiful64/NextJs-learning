@@ -1,0 +1,70 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "OEM Services",
+      "slug": "oem-services",
+      "description": "Producing automation systems or industrial equipment serving the manufacturing industry. We provide end-to-end OEM solutions tailored to enhance production efficiency and reliability.",
+      "price": "Contact for pricing",
+      "provider": "John Doe",
+      "isFeatured": true,
+      "image": "/services/oem.jpg",
+      "icon": "icon-1-OEM-bno"
+    },
+    {
+      "id": 2,
+      "title": "Industrial Solution Provider",
+      "slug": "industrial-solution-provider",
+      "description": "Working across the industry ecosystem to help set up and run assembly lines and operations. Our solutions are designed to streamline processes and optimize performance.",
+      "price": "Contact for pricing",
+      "provider": "Jane Smith",
+      "isFeatured": true,
+      "image": "/services/solution-provider.jpg",
+      "icon": "icon-2-Solution-Providers-bno"
+    },
+    {
+      "id": 3,
+      "title": "Manufacturing Solutions",
+      "slug": "manufacturing-solutions",
+      "description": "Assembling or producing distinct finished goods across various industries, serving our customers with high-quality manufacturing solutions. We cater to diverse needs with precision and efficiency.",
+      "price": "Contact for pricing",
+      "provider": "Emily Johnson",
+      "isFeatured": false,
+      "image": "/services/manufacturing.jpg",
+      "icon": "icon-3-manufacturer-bno"
+    },
+    {
+      "id": 4,
+      "title": "Automation System Integration",
+      "slug": "automation-system-integration",
+      "description": "Integrate advanced automation systems with your existing infrastructure to enhance operational efficiency and system interoperability.",
+      "price": "Contact for pricing",
+      "provider": "Michael Green",
+      "isFeatured": true,
+      "image": "/services/system-integration.jpg",
+      "icon": "icon-4-system-integration-bno"
+    },
+    {
+      "id": 5,
+      "title": "Predictive Maintenance Solutions",
+      "slug": "predictive-maintenance-solutions",
+      "description": "Implement predictive maintenance strategies using advanced analytics and IoT to foresee equipment failures and reduce downtime.",
+      "price": "Contact for pricing",
+      "provider": "Samantha White",
+      "isFeatured": false,
+      "image": "/services/predictive-maintenance.jpg",
+      "icon": "icon-5-predictive-maintenance-bno"
+    },
+    {
+      "id": 6,
+      "title": "Custom Automation Consulting",
+      "slug": "custom-automation-consulting",
+      "description": "Receive tailored consulting services to design and implement custom automation solutions that fit your unique business needs and objectives.",
+      "price": "Contact for pricing",
+      "provider": "David Black",
+      "isFeatured": false,
+      "image": "/services/custom-consulting.jpg",
+      "icon": "icon-6-custom-consulting-bno"
+    }
+  ]
+}

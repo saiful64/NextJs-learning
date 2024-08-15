@@ -31,3 +31,13 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Hide scrollbars for WebKit browsers */
+.sticky-scroll-container::-webkit-scrollbar {
+  display: none; /* Hide scrollbar */
+}
+
+.sticky-scroll-container {
+  -ms-overflow-style: none; /* Hide scrollbar for Internet Explorer and Edge */
+  scrollbar-width: none; /* Hide scrollbar for Firefox */
+}

@@ -1,0 +1,23 @@
+{
+    "services": [
+      {
+        "id": 1,
+        "title": "Process Automation",
+        "description": "Automate repetitive tasks to increase efficiency and reduce costs.",
+        "image": "/images/process-automation.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Robotic Process Automation",
+        "description": "Implement robotic process automation to handle high-volume tasks.",
+        "image": "/images/robotic-process.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Business Workflow Optimization",
+        "description": "Optimize business workflows to enhance productivity and operational efficiency.",
+        "image": "/images/workflow-optimization.jpg"
+      }
+    ]
+  }
+  
